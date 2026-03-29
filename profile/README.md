@@ -2,9 +2,8 @@
   <img src="https://github.com/nioyatech/.github/blob/main/logo-light.svg" alt="NioyaTech Logo" width="1000" />
 </p>
 
-<h1 align="center">NioyaTech</h1>
 
-<h3 align="center">Where Ideas Scale</h3>
+<h1 align="center">Where Ideas Scale</h1>
 
 <p align="center">
   <strong>Engineering Clarity</strong> ·
