@@ -1,9 +1,7 @@
-<!--
-Replace these two URLs with the real public image assets from nioyatech.com
-Example:
-LOGO_URL=https://www.nioyatech.com/path/to/logo.png
-COVER_IMAGE_URL=https://www.nioyatech.com/path/to/cover-image.jpg
--->
+
+
+LOGO_URL=https://nioyatech.com/file/assets/logo-dark.svg
+COVER_IMAGE_URL=https://nioyatech.com/file/assets/hero-bg.png
 
 <div align="center">
 
