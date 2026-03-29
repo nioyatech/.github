@@ -1,11 +1,6 @@
-
-
-LOGO_URL=https://nioyatech.com/file/assets/logo-dark.svg
-COVER_IMAGE_URL=https://nioyatech.com/file/assets/hero-bg.png
-
 <div align="center">
 
-<img src="LOGO_URL" alt="NioyaTech Logo" width="170" />
+<img src="https://nioyatech.com/file/assets/logo-dark.svg" alt="NioyaTech Logo" width="170" />
 
 # NioyaTech
 
@@ -27,7 +22,7 @@ COVER_IMAGE_URL=https://nioyatech.com/file/assets/hero-bg.png
   <a href="mailto:contact@nioyatech.com"><img src="https://img.shields.io/badge/Email-contact%40nioyatech.com-1F2937?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
-<img src="COVER_IMAGE_URL" alt="NioyaTech Cover Image" width="100%" />
+<img src="https://nioyatech.com/file/assets/hero-bg.png" alt="NioyaTech Cover Image" width="100%" />
 
 </div>
 
