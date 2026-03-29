@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://nioyatech.com/file/assets/logo-dark.svg" alt="NioyaTech Logo" width="500" />
+  <img src="https://nioyatech.com/file/assets/logo-dark.svg" alt="NioyaTech Logo" width="1000" />
 </p>
 
 <h1 align="center">NioyaTech</h1>
