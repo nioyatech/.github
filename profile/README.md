@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://nioyatech.com/file/assets/logo-dark.svg" alt="NioyaTech Logo" width="170" />
+<img src="https://nioyatech.com/file/assets/logo-dark.svg" alt="NioyaTech Logo" width="260" />
 
 # NioyaTech
 
