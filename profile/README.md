@@ -1,30 +1,30 @@
-<div align="center">
+<p align="center">
+  <img src="https://nioyatech.com/file/assets/logo-dark.svg" alt="NioyaTech Logo" width="260" />
+</p>
 
-<img src="https://nioyatech.com/file/assets/logo-dark.svg" alt="NioyaTech Logo" width="260" />
+<h1 align="center">NioyaTech</h1>
 
-# NioyaTech
+<h3 align="center">Where Ideas Scale</h3>
 
-### Where Ideas Scale
-
-<p>
+<p align="center">
   <strong>Engineering Clarity</strong> ·
   <strong>Scaling Systems</strong> ·
   <strong>Driving Growth</strong>
 </p>
 
-<p>
+<p align="center">
   We design, build, and scale enterprise-grade digital systems for governments, institutions, enterprises, and high-growth companies.
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.nioyatech.com"><img src="https://img.shields.io/badge/Website-nioyatech.com-0A66C2?style=for-the-badge" alt="Website" /></a>
   <a href="https://www.linkedin.com/company/nioyatech-inc/"><img src="https://img.shields.io/badge/LinkedIn-NioyaTech-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:contact@nioyatech.com"><img src="https://img.shields.io/badge/Email-contact%40nioyatech.com-1F2937?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
-<img src="https://nioyatech.com/file/assets/hero-bg.png" alt="NioyaTech Cover Image" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://nioyatech.com/file/assets/hero-bg.png" alt="NioyaTech Cover Image" width="100%" />
+</p>
 
 ---
 
@@ -219,8 +219,6 @@ Tysons, VA 22102
 
 ---
 
-<div align="center">
-
-**NioyaTech engineers scalable digital systems for enterprises and growing companies using AI, cloud, and modern software architecture.**
-
-</div>
+<p align="center">
+  <strong>NioyaTech engineers scalable digital systems for enterprises and growing companies using AI, cloud, and modern software architecture.</strong>
+</p>
